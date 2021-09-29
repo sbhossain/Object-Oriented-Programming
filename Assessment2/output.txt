@@ -1,0 +1,17 @@
+FAMILY Felidae Cat Carnivore
+ANIMAL Felidae Tiger Asia Mixed_forest
+ANIMAL Felidae Lion Africa Grasslands
+ANIMAL Felidae Cheetah Africa Grasslands
+FAMILY Canidae Dog Carnivore
+ANIMAL Canidae Wolf Europe Grasslands
+ANIMAL Canidae Fennec_fox Asia Desert
+ANIMAL Canidae African_wild_dog Africa Grasslands
+FAMILY Chiroptera Bat Vegetarian
+ANIMAL Chiroptera Flying_fox Australia Mixed_forest
+ANIMAL Chiroptera Short-tailed_bat New_zealand Forest
+ANIMAL Chiroptera Hog-nosed_bat Asia Forest
+FAMILY Cervidae Deer Vegetarian
+ANIMAL Cervidae Elk North_america Grasslands
+ANIMAL Cervidae Moose North_america Mixed_forest
+ANIMAL Cervidae Musk_deer Asia Mixed_forest
+FAMILY Hominidae Ape Omnivore

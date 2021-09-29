@@ -1,0 +1,22 @@
+Sayeed Hominidae  Ape Omnivore
+FAMILY Felidae Cat Carnivore 
+FAMILY Canidae Dog Carnivore 
+FAMILY Chiroptera Bat Vegetarian 
+FAMILY Cervidae Deer Vegetarian
+ANIMAL Hominidae Orang-Utan Asia Forest 
+ANIMAL Hominidae Gorilla Africa Mixed_Forest 
+ANIMAL Hominidae Chimpanzee Africa Forest 
+ANIMAL Felidae Tiger Asia Mixed_Forest 
+ANIMAL Felidae Lion Africa Grasslands 
+ANIMAL Felidae Cheetah Africa Grasslands 
+ANIMAL Canidae Wolf Europe Grasslands 
+ANIMAL Canidae Fennec_fox Asia Desert 
+ANIMAL Canidae African_wild_dog Africa Grasslands 
+ANIMAL Chiroptera Flying_fox Australia Mixed_Forest 
+ANIMAL Chiroptera Short-tailed_bat New_Zealand Forest 
+ANIMAL Chiroptera Hog-nosed_bat Asia Forest 
+ANIMAL Cervidae Elk North_America Grasslands 
+ANIMAL Cervidae Moose North_America Mixed_Forest 
+ANIMAL Cervidae Musk_deer Asia Mixed_Forest
+FAMILY Hominidae  Ape Omnivore 
+ANIMAL Cervidae Musk_deer Asia Mixed_Forest
